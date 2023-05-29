@@ -4,9 +4,9 @@
 脚本锁佣建议用新的京粉号
 https://u.jd.com/xxxxxxx
 
-返利变量：JD_618_rebateCode，若需要返利给自己，请自己修改环境变量[krflCode]
+返利变量：CODE618，若需要返利给自己，请自己修改环境变量[CODE618]
 xxxxxxx换成自己的返利 就是链接后面那7位字母
-export krflCode="xxxxxxx"
+export CODE618="xxxxxxx"
 
 
 尽量使用代理访问，不然大概率 垃圾卷
