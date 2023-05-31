@@ -1,7 +1,7 @@
 /*
 #京东音乐会抽奖
 
-https://lotterydraw-new.jd.com/?id=mghjkNQJ16-CNsQ2lWo4ww
+https://prodev.m.jd.com/wq/active/4Q3fBwqhoyTFBw3kH3UsyaK9pjq9/index.html
 
 [task_local]
 #京东音乐会抽奖
