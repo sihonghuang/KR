@@ -1,7 +1,7 @@
 /*
 大牌联合061501期
 
-活动地址：711a131ea34b451398a941369_23061501
+活动地址：https://jinggengjcq-isv.isvjcloud.com/jdbeverage/pages/oC20230615aslwt/oC20230615aslw?actId=711a131ea34b451398a941369_23061501
 
 自行运行，有水无水自测。
 
