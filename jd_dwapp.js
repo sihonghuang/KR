@@ -42,14 +42,15 @@ if ($.isNode()) {
             }
             $.UUID = getUUID('xxxxxxxxxxxxxxxx');
             await main()
-						await $.wait(parseInt(Math.random() * 3000 + 2200, 10))
+						await $.wait(parseInt(Math.random() * 3000 + 3200, 10))
         }
     }
 })().catch((e) => { $.log('', `❌ ${$.name}, 失败! 原因: ${e}!`, '') }).finally(() => { $.done(); })
 
 async function main() {
     $.log("去签到")
-    await usersign()
+    await $.wait(parseInt(Math.random() * 1000 + 1000, 10))
+		await usersign()
 		await $.wait(parseInt(Math.random() * 2000 + 3200, 10))
     await tasklist();
     if ($.tasklist) {
