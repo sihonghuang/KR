@@ -1,7 +1,7 @@
 /*
 大牌联合0625期
 
-活动地址：
+活动地址：https://jinggengjcq-isv.isvjcloud.com/jdbeverage/pages/oC20230625dda/oC20230625dda?actId=c48b641bc798454e898562_230625
 
 自行运行，有水无水自测。
 
