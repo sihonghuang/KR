@@ -978,7 +978,7 @@ async function sendNotifybyWxPucher(text, desp, PtPin, author = '\n\n本通知 B
             if (tempEnv) {
                 cookie = tempEnv.value;
                 //Uid = getuuid(tempEnv.remarks, PtPin);
-		Uid = process.env["uids"]
+		Uid = process.env["uids"];
                 UserRemark = getRemark(tempEnv.remarks);
 
                 if (Uid) {
